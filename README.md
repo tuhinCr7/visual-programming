@@ -1,4 +1,4 @@
 # visual-programming
 I am learning C#
 <br>
-Author - Tuhin
+Author - Tuhin Alam Bijoy
